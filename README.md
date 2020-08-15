@@ -1,5 +1,3 @@
-## About Invictus
-Invictus is a set of jupyter notebooks showcasing how to accomplish specific computer vision task using the Python programming language.
 
 ### Setting Up
 It is generally encouraged that you always use Python virtuan environment to have isolated Python installations per project. In this guide, I suggest you do the same. So 'cd' into the 'invictus' directory that you've cloned onto your computer and perform the following actions to run the notebooks in a separate virtual environment.
